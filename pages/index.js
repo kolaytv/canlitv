@@ -41,7 +41,7 @@ export default function Home() {
         <h1>Canlı TV İzlemenin Avantajları</h1>
         <img src="https://tv.kolaytv.org/images/kolaytv.png" alt="Kolay TV" />
         <p>
-          Günümüzde canlı TV izlemek, insanlar için eğlenceli ve bilgilendirici bir etkinlik haline geldi.
+          Günümüzde <a href="https://tv.kolaytv.org" target="_blank">canlı TV</a> izlemek, insanlar için eğlenceli ve bilgilendirici bir etkinlik haline geldi.
           Farklı kanallara kolayca erişim sağlayarak, dünya çapındaki olayları anında takip edebilirsiniz.
           Ayrıca sevdiğiniz dizileri ve programları kaçırmadan izleme şansına sahip olabilirsiniz.
         </p>
